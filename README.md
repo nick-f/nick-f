@@ -2,7 +2,7 @@
 
 I'm a software engineer and Mac admin.
 
-In my day job I primarily write Ruby code, so you'll see a lot of that here.
+In my day job I primarily write Ruby code and bash scripts, so you'll see a lot of that here.
 
 Currently I'm working on making some of the scripts and helpers I've created available to pay it forward.
 
